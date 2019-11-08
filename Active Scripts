@@ -5,12 +5,21 @@ Base:
 UI:
 
 Jobs:
+esx_police
+esx_mafia
+esx_cartel
+mechanic
+state
+thelostmc
+taxi
+ambulance
 
 Cars:
 
 Maps:
 
 Personal:
+esx_Advancedgarages
 
 illegals:
 
